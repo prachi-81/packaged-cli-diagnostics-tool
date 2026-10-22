@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/envdoctor/__init__.py
+src/envdoctor/cli.py
+src/envdoctor_cli.egg-info/PKG-INFO
+src/envdoctor_cli.egg-info/SOURCES.txt
+src/envdoctor_cli.egg-info/dependency_links.txt
+src/envdoctor_cli.egg-info/entry_points.txt
+src/envdoctor_cli.egg-info/top_level.txt
+tests/test_cli.py

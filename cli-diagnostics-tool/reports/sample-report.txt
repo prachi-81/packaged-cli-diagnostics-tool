@@ -1,0 +1,19 @@
+DEVELOPER ENVIRONMENT HEALTH REPORT
+====================================
+Python version: 3.14.0
+Operating system: Windows
+
+Disk space:
+  Total: 510881951744 bytes
+  Free:  389423005696 bytes
+
+Environment variables:
+  PATH: Available
+  HOME: Missing
+  USERPROFILE: Available
+
+Developer tools:
+  git: Found
+  python: Found
+  pip: Found
+  code: Found

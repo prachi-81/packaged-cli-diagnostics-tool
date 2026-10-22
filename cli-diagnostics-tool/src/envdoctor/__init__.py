@@ -1,0 +1,3 @@
+"""Developer environment diagnostics tool."""
+
+__version__ = "1.0.0"

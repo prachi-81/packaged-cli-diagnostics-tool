@@ -1,0 +1,19 @@
+{
+  "python_version": "3.14.0",
+  "operating_system": "Windows",
+  "disk_space": {
+    "total_bytes": 510881951744,
+    "free_bytes": 389418631168
+  },
+  "environment_variables": {
+    "PATH": true,
+    "HOME": false,
+    "USERPROFILE": true
+  },
+  "developer_tools": {
+    "git": true,
+    "python": true,
+    "pip": true,
+    "code": true
+  }
+}
